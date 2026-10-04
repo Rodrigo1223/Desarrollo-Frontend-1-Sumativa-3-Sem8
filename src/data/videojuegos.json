@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Theft Auto V",
+    "price": 29990,
+    "precioNormal": 45000,
+    "category": "Acción",
+    "image": "https://unsplash.com"
+  },
+  {
+    "id": 2,
+    "name": "The Witcher 3: Wild Hunt",
+    "price": 19990,
+    "precioNormal": 35000,
+    "category": "RPG",
+    "image": "https://unsplash.com"
+  },
+  {
+    "id": 3,
+    "name": "Red Dead Redemption 2",
+    "price": 39990,
+    "precioNormal": 59990,
+    "category": "Aventura",
+    "image": "https://unsplash.com"
+  }
+]

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-"homepage": "https://github.io",
+  "homepage": "https://Rodrigo1223.github.io/Desarrollo-Frontend-1-Sumativa-3-Sem8",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "bootstrap": "^5.3.8",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
